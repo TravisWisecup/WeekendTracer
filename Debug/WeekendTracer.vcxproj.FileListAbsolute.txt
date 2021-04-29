@@ -1,0 +1,2 @@
+J:\Spring 2021 Classes\CSCI 4620 Computer Graphics\WeekendTracer\Debug\WeekendTracer.exe
+J:\Spring 2021 Classes\CSCI 4620 Computer Graphics\WeekendTracer\Debug\WeekendTracer.pdb
